@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    margin: 2rem;
+  }
+  
+#new-widget-form {
+  display: inline-block;
+  width: 100px;
+  text-align: left;
+}
+
+table {
+  margin: 2rem auto;
+}
+
+table a {
+  color: red;
+  text-decoration: none;
+}
